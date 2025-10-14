@@ -13,6 +13,6 @@ alert("Tworzenie tabeli")
 </script>
 </head>
 <body>
-    <h1><u>Tabela w VSC</u></h1>
+    <h1><u>Siema</u></h1>
 </body>
 </html>
