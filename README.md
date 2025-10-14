@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta author name="Bartosz Chmielewski">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tworzenie tabeli</title>
+    <style>
+ table{ border: 3px solid rgb(0, 0, 0);}
+    </style>
+<script>
+alert("Tworzenie tabeli")
+</script>
+</head>
+<h1><u>Tabela w VSC</u></h1>
+<body>
+<table border="4">
+<tr>
+<th colspan="2">Tabela w VSC</th>
+<th>Tabela w VSC</th>
+<th>Tabela w VSC</th>
+<th>Tabela w VSC</th>
+<th>Tabela w VSC</th>
+<th>Tabela w VSC</th>
+<th>Tabela w VSC</th>
+</tr>
+<tr>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+</tr>
+<tr>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+<th>a</th>
+</tr>
+ </table>
+</body>
+</html>
