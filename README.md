@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tworzenie tabeli</title>
 <script>
-alert("Tworzenie tabeli")
+alert("Witam")
 </script>
 </head>
 <body>
     <h1>Co się lampisz parówo dęta,ludzika z delmy nie widziałeś ?</h1>
-    <table>
+    <table border="2"px>
 <tr>
 <td>witam</td>
 <td>serdecznie</td>
