@@ -11,7 +11,7 @@ alert("Witam")
 </head>
 <body>
     <h1>Co się lampisz parówo dęta,ludzika z delmy nie widziałeś ?</h1>
-    <table border="2"px>
+    <table border="2">
 <tr>
 <td>witam</td>
 <td>serdecznie</td>
