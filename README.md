@@ -10,9 +10,10 @@
     </style>
 <script>
 alert("Tworzenie tabeli")
+    alert("siema cwelu")
 </script>
 </head>
 <body>
-    <h1><u>Co się lampisz parówo dęta ludzika z delmy nie widziałeś ?</u></h1>
+    <h1><u>Co się lampisz parówo dęta ludzika z delmy nie widziałeś ?</u></h1
 </body>
 </html>
