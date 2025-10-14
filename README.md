@@ -10,6 +10,6 @@ alert("Tworzenie tabeli")
 </script>
 </head>
 <body>
-    <h1>Co się lampisz parówo dęta ludzika z delmy nie widziałeś ?</h1>
+    <h1>Co się lampisz parówo dęta,ludzika z delmy nie widziałeś ?</h1>
 </body>
 </html>
