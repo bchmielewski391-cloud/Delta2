@@ -11,5 +11,12 @@ alert("Tworzenie tabeli")
 </head>
 <body>
     <h1>Co się lampisz parówo dęta,ludzika z delmy nie widziałeś ?</h1>
+    <table>
+<tr>
+<td>witam</td>
+<td>serdecznie</td>
+<td>człowieka</td>
+</tr>
+   </table>
 </body>
 </html>
