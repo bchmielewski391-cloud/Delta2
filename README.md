@@ -17,8 +17,10 @@ alert("Witam")
 <td>serdecznie</td>
 <td>człowieka</td>
     <td>który</td>
-    <td>odwiedził</td>
+    <td>odwiedza</td>
     <td>tą</td>
+    <td>wyjątkowo</td>
+    <td>dziwną</td>
     <td>stronę</td>
 </tr>
    </table>
