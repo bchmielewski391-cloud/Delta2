@@ -13,6 +13,6 @@ alert("Tworzenie tabeli")
 </script>
 </head>
 <body>
-    <h1><u>Co się lampisz paruwo dęta ludzika z delmy nie widziałeś ?</u></h1>
+    <h1><u>Co się lampisz parówo dęta ludzika z delmy nie widziałeś ?</u></h1>
 </body>
 </html>
