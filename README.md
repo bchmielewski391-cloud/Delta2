@@ -10,6 +10,7 @@
     </style>
 <script>
 alert("Tworzenie tabeli")
+    alert("Siema")
 </script>
 </head>
 <h1><u>Tabela w VSC</u></h1>
