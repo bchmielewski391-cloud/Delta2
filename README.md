@@ -12,36 +12,7 @@
 alert("Tworzenie tabeli")
 </script>
 </head>
-<h1><u>Tabela w VSC</u></h1>
 <body>
-<table border="4">
-<tr>
-<th colspan="2">Tabela w VSC</th>
-<th>Tabela w VSC</th>
-<th>Tabela w VSC</th>
-<th>Tabela w VSC</th>
-<th>Tabela w VSC</th>
-<th>Tabela w VSC</th>
-<th>Tabela w VSC</th>
-</tr>
-<tr>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-</tr>
-<tr>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-<th>a</th>
-</tr>
- </table>
+    <h1><u>Tabela w VSC</u></h1>
 </body>
 </html>
