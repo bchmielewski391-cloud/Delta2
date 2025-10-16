@@ -24,7 +24,7 @@ alert("Witam")
     <td>stronę</td>
 </tr>
    </table>
-    <a href="https://allegro.pl/?utm_medium=afiliacja&utm_source=ctr_b&utm_campaign=175a056e-0be3-4e51-951f-46fc2d064de8&tag=gx-pl-allegro-allegro-sd-def" target="_blank">Witam</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=1s" target="_blank">Witam</a><br>
     <img src="https://deliveroo.engineering/images/posts/how-to-un-rickroll-yourself/rick_roll.jpg" alt="Rick roll">
 </body>
 </html>
