@@ -24,7 +24,7 @@ alert("Witam")
     <td>stronę</td>
 </tr>
    </table>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=1s" target="_blank">Witam</a><br>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=1s" target="_blank">RICK ROLL</a><br>
     <img src="https://deliveroo.engineering/images/posts/how-to-un-rickroll-yourself/rick_roll.jpg" alt="Rick roll">
 </body>
 </html>
